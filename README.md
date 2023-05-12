@@ -16,7 +16,3 @@
 
 - 🙌: I’m currently open for a new `job opportunity`.
 <!--Intro end-->
-
-<br/>
-
-<h2 align="center">Projects I have worked on 👨🏻‍💻</h2>
